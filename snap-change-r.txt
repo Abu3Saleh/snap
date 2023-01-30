@@ -1,6 +1,6 @@
-Version 2.90. Changelog:
+Version 1.0. Changelog:
 
->Update the base to the latest version in Google Play 8.0
+>Update the base to the latest version in Google Play 12.17.0.17
 >Fixed an offline problem on some devices
 >Adding a lot of new features
 >Bugs Fixed

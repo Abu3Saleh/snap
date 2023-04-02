@@ -1,6 +1,10 @@
-Version 1.0. Changelog:
+Version 12.0. Changelog:
 
->Update the base to the latest version in Google Play 12.17.0.17
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+> Update the base to the latest version in Google Play 12.26.0.20
+> Night Mode option beta (90% of UI - cant do more now)
+> View snaps and story for unlimited time 
+> Download option for Snaps
+> Download option for Stories
+> Download option for Discover
+> Download option for Spotlight 
+> Annoying Gservices notification

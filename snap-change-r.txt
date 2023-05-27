@@ -1,10 +1,7 @@
-Version 12.0. Changelog:
+Version 2.20. Changelog:
 
-> Update the base to the latest version in Google Play 12.26.0.20
-> Night Mode option beta (90% of UI - cant do more now)
-> View snaps and story for unlimited time 
-> Download option for Snaps
-> Download option for Stories
-> Download option for Discover
-> Download option for Spotlight 
-> Annoying Gservices notification
+> Update the base to the latest version in Google Play 12.32.0.35
+> Location Changer Change your location on snap map
+> Night Mode option beta 2 (99% of UI)
+> Saving snaps show toast notification 
+> More fixes and improvements

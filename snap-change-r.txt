@@ -1,7 +1,6 @@
-Version 2.20. Changelog:
+Version 2.40. Changelog:
 
-> Update the base to the latest version in Google Play 12.32.0.35
-> Location Changer Change your location on snap map
-> Night Mode option beta 2 (99% of UI)
+> Update the base to the latest version in Google Play 12.42.0.54
+> Fix download videos.
 > Saving snaps show toast notification 
 > More fixes and improvements

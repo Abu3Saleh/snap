@@ -1,6 +1,5 @@
-Version 2.40. Changelog:
+Version 2.50. Changelog:
 
-> Update the base to the latest version in Google Play 12.42.0.54
-> Fix download videos.
-> Saving snaps show toast notification 
-> More fixes and improvements
+> Update the base to the latest version in Google Play 12.49.0.67.
+> Custom App Icon You can change Snap icon look on the home screen.
+> More fixes and improvements.

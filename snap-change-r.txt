@@ -1,5 +1,5 @@
-Version 2.50. Changelog:
+Version 2.60. Changelog:
 
-> Update the base to the latest version in Google Play 12.49.0.67.
-> Custom App Icon You can change Snap icon look on the home screen.
+> Update the base to the latest version in Google Play 12.54.0.67.
+> See the remaining time for the streak to expire exactly.
 > More fixes and improvements.

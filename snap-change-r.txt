@@ -1,5 +1,5 @@
 Version 2.70. Changelog:
 
-> Update the base to the latest version in Google Play 12.54.0.67.
-> See the remaining time for the streak to expire exactly.
+> Update the base to the latest version in Google Play 12.62.1.53.
+> You can now decide to make snaps show as 'opened' by clicking the eye icon. (Only when "Hide View Snap" is enabled)
 > More fixes and improvements.

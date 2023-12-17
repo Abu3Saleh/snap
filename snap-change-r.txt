@@ -1,4 +1,4 @@
-Version 2.60. Changelog:
+Version 2.70. Changelog:
 
 > Update the base to the latest version in Google Play 12.54.0.67.
 > See the remaining time for the streak to expire exactly.

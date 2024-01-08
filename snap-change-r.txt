@@ -1,5 +1,5 @@
-Version 2.70. Changelog:
+Version 2.80. Changelog:
 
-> Update the base to the latest version in Google Play 12.62.1.53.
-> You can now decide to make snaps show as 'opened' by clicking the eye icon. (Only when "Hide View Snap" is enabled)
+> Update the base to the latest version in Google Play 12.67.0.24.
+> Half-swipe (Peek) alert! You will get a notification when someone swipes half the chat to see the messages
 > More fixes and improvements.

@@ -1,5 +1,7 @@
-Version 2.80. Changelog:
+Version 2.85. Changelog:
 
-> Update the base to the latest version in Google Play 12.67.0.24.
-> Half-swipe (Peek) alert! You will get a notification when someone swipes half the chat to see the messages
+> Update the base to the latest version in Google Play 12.70.0.34.
+> Adding all the new Snapchat features.
+> [Fixed] Snaps saved automatically when forward.
+> [Fixed] Spotlight downloaded automatically when forward to friends.
 > More fixes and improvements.

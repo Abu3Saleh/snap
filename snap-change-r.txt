@@ -1,7 +1,9 @@
-Version 2.85. Changelog:
+Version 2.90. Changelog:
 
-> Update the base to the latest version in Google Play 12.70.0.34.
+> Update the base to the latest version in Google Play 12.81.0.44.
 > Adding all the new Snapchat features.
-> [Fixed] Snaps saved automatically when forward.
-> [Fixed] Spotlight downloaded automatically when forward to friends.
+> Adding iOS Emojis option 
+Use the iOS Emojis when writing text on a new snap!
+> Adding iOS Font option
+> [Fixed] Fixed Minor bugs
 > More fixes and improvements.

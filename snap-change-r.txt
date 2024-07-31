@@ -1,9 +1,9 @@
-Version 2.95. Changelog:
+Version 2.97. Changelog:
 
-> Update the base to the latest version in Google Play 12.85.0.45.
+> Update the base to the latest version in Google Play 12.96.0.42.
 > Adding all the new Snapchat features.
-> Adding iOS Emojis option 
-Use the iOS Emojis when writing text on a new snap!
-> Adding iOS Font option
-> [Fixed] Fixed Minor bugs
+> Snap+ activated for all 
+Most + features work, but few that require server don't work
+> Edit Messages after sending
+> Fixed Streak Expiry in hours
 > More fixes and improvements.

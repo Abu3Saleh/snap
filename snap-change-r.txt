@@ -4,5 +4,4 @@ Version 2.99. Changelog:
 > Adding all the new Snapchat features.
 > Enabled Custom Ringtone in +
 > Enabled Lightining Snaps
-> Fixed Streak Expiry in hours
 > More fixes and improvements.

@@ -1,9 +1,8 @@
-Version 2.97. Changelog:
+Version 2.99. Changelog:
 
-> Update the base to the latest version in Google Play 12.96.0.42.
+> Update the base to the latest version in Google Play 13.5.0.41.
 > Adding all the new Snapchat features.
-> Snap+ activated for all 
-Most + features work, but few that require server don't work
-> Edit Messages after sending
+> Enabled Custom Ringtone in +
+> Enabled Lightining Snaps
 > Fixed Streak Expiry in hours
 > More fixes and improvements.

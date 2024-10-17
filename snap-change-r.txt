@@ -1,7 +1,5 @@
-Version 2.99. Changelog:
+Version 3.00. Changelog:
 
-> Update the base to the latest version in Google Play 13.5.0.41.
+> Update the base to the latest version in Google Play 13.11.0.42.
 > Adding all the new Snapchat features.
-> Enabled Custom Ringtone in +
-> Enabled Lightining Snaps
 > More fixes and improvements.

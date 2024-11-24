@@ -1,5 +1,5 @@
-Version 3.00. Changelog:
+Version 3.10. Changelog:
 
-> Update the base to the latest version in Google Play 13.11.0.42.
+> Update the base to the latest version in Google Play 13.17.0.42.
 > Adding all the new Snapchat features.
 > More fixes and improvements.

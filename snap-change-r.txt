@@ -1,5 +1,4 @@
-Version 3.10. Changelog:
+New in version v3.20
 
-> Update the base to the latest version in Google Play 13.17.0.42.
-> Adding all the new Snapchat features.
-> More fixes and improvements.
+It contains many great new features.
+More important fixes and improvements.
